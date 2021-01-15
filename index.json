@@ -1,0 +1,7 @@
+let empDetails=[
+    {
+        "ename":"charan",
+        "eid":123121,
+        "isFresher":true
+    }
+]
